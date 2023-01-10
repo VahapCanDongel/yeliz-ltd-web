@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87d806dd.css",
+    "main.js": "/static/js/main.8b91d2c4.js",
+    "static/media/slide_5.png": "/static/media/slide_5.d1d2ed58b78d6312f6d3.png",
+    "static/media/slide_2.png": "/static/media/slide_2.1574d29fba2cdd8bbf08.png",
+    "static/media/slide_4.png": "/static/media/slide_4.1574d29fba2cdd8bbf08.png",
+    "static/media/slide_3.png": "/static/media/slide_3.508a8db3ba22e5a45161.png",
+    "static/media/services_3.jpeg": "/static/media/services_3.4ddc386cb4b0f7303fe7.jpeg",
+    "static/media/services_4.jpeg": "/static/media/services_4.6af13f61b68d16b7d1f4.jpeg",
+    "static/media/yelizlogo.png": "/static/media/yelizlogo.ff6cd898fae46869f079.png",
+    "static/media/services_5.jpeg": "/static/media/services_5.6329899f657862f5b7f7.jpeg",
+    "static/media/services_1.jpeg": "/static/media/services_1.08ccc897e5050da3d6ac.jpeg",
+    "static/media/services_2.jpeg": "/static/media/services_2.93a5be71db3b0c1870a9.jpeg",
+    "static/media/p_image_1.jpeg": "/static/media/p_image_1.0df2abb247fa222c8164.jpeg",
+    "static/media/p_image_2.jpeg": "/static/media/p_image_2.2c85690b0e15489fe09e.jpeg",
+    "static/media/p_image_3.jpeg": "/static/media/p_image_3.748371c9c00c615c4a99.jpeg",
+    "static/media/p_image_4.jpeg": "/static/media/p_image_4.b4ce81bb2edab188dd4d.jpeg",
+    "static/media/p_image_5.jpeg": "/static/media/p_image_5.336f2db0fc22d8c1074b.jpeg",
+    "index.html": "/index.html",
+    "main.87d806dd.css.map": "/static/css/main.87d806dd.css.map",
+    "main.8b91d2c4.js.map": "/static/js/main.8b91d2c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d806dd.css",
+    "static/js/main.8b91d2c4.js"
+  ]
+}
