@@ -11,7 +11,6 @@ export default function Testimonials(){
 
             His seriousness and demands are remarkable from the first contact.' person='Thérèse Lombi'></Testimonial>
             <Testimonial company='Inline London' statement='We have worked closely with Yeliz Ltd since 2010 and cannot recommend this company highly enough. The owner, Huseyin Gullu is a master tailor with exceptional skill in all matters concerning high end garment production. His attention to detail and hard work ethic filters through this family run business where pride and integrity are at the forefront of everything they do.  The fact Yeliz has a powerful history producing for some leading high street labels while at the same time accommodating our needs within the hospitality sector speaks volumes about their adaptability. ' person='Neil Thomas'></Testimonial>
-            <Testimonial company='Mocas UK Fashion' statement='The clothes are stitched very well, flawless, good quality material and excellent fit. I strongly recommend Yeliz LTD for quality fashionable products. I always receive quite a number of compliments when wearing their products.' person='Moreen Molly Kinyanjui'></Testimonial>
             
             </div>
         </div>
